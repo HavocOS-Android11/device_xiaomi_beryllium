@@ -1,5 +1,10 @@
 # Camera
 persist.vendor.camera.perfcapture=1
 
+# Havoc Stuff
+ro.havoc.device.name=Xiaomi Poco F1
+ro.havoc.group.url=https://t.me/baka_hokage_builds_support
+ro.havoc.maintainer=Ayush (baka_hokage)
+
 # Recovery
 ro.recovery.ui.margin_height=87
